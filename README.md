@@ -27,12 +27,16 @@ Real/User/System times
 |    1      | R:0m0.056s   | R:0m0.005s  |
 |           | U:0m0.042s   | U:0m0.000s  |
 |           | S:0m0.009s   | S:0m0.005s  |
-|    2      | R:0m0.056s   | R:0m0.005s  |
-|           | U:0m0.042s   | U:0m0.000s  |
+|    2      | R:0m0.043s   | R:0m0.005s  |
+|           | U:0m0.039s   | U:0m0.004s  |
+|           | S:0m0.004s   | S:0m0.005s  |
+|    3      | R:0m0.043s   | R:0m0.005s  |
+|           | U:0m0.034s   | U:0m0.000s  |
 |           | S:0m0.009s   | S:0m0.005s  |
-|    3      | R:0m0.056s   | R:0m0.005s  |
-|           | U:0m0.042s   | U:0m0.000s  |
-|           | S:0m0.009s   | S:0m0.005s  |
-|    4      | R:0m0.056s   | R:0m0.005s  |
-|           | U:0m0.042s   | U:0m0.000s  |
-|           | S:0m0.009s   | S:0m0.005s  |
+|    4      | R:0m0.016s   | R:0m0.005s  |
+|           | U:0m0.012s   | U:0m0.004s  |
+|           | S:0m0.005s   | S:0m0.001s  |
+
+
+C++ Implementation has a real advantage here as evident in the table above.
+
